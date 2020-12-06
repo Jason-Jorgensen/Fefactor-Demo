@@ -14,3 +14,6 @@ The CSS was also refactored with comments to help section the code for easier re
 
 I learned the importance of using the correct semantics and organizing code so it can be easily read and edited. I also learned the importance of adding titles and alternative text to help with SEO scores and website accesibilty for the visually impaired. 
 
+Deployed link:
+https://jason-jorgensen.github.io/Refactor-Demo/
+
